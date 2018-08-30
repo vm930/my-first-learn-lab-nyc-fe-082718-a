@@ -1,0 +1,1 @@
+Create a new file in this lesson called 'my-new-file.txt' to pass this test"
